@@ -1,2 +1,2 @@
 # Random-Number-Guessing-Game
-A Guessing Game in Rust programming language
+A Guessing Game written in Rust programming language
